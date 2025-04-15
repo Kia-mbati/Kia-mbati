@@ -34,6 +34,3 @@ I started my tech journey with wordpress where i learn alot about websites .I st
 <a href="http://www.github.com/Kia-mbati"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kia-mbati&bg_color=000000&color=6366f1&line=6366f1&point=6366f1&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Kia-mbati" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kia-mbati&langs_count=10&title_color=ffffff&text_color=6366f1&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
