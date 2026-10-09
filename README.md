@@ -51,7 +51,7 @@ I specialize in helping businesses and brands become data-smart, digitally visib
 
 - **Email:** kiambaticaroline@gmail.com  
 - **LinkedIn:** [linkedin.com/in/caroline-kiambati](https://linkedin.com/in/caroline-kiambati)  
-- **Portfolio:** [Visit My Website](https://dev-caroline-kiambati-portfolio.pantheonsite.io/)  
+- **Portfolio:** [Visit My Website](https://databykiambati.co.ke/)  
 - **Blog:** Documenting my learning, tips, and tools (Coming Soon)
 
 ---
